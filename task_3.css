@@ -14,7 +14,7 @@ body{
    }
 .form {
     position: relative;
-	background: rgba(5,35,175,0.4);
+	background: rgba(5,35,175,0.41);
 	max-width: 360px;
 	margin: 0 auto 100px;
 	padding: 45px;
