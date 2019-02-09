@@ -1,0 +1,48 @@
+body{
+	margin:0;
+   }
+.hero-image {
+   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("3.jpg");
+   height: 130vh;
+   background-size: cover;
+   background-repeat: no-repeat;
+   }
+.register {
+   width:350px;
+   padding:5% 0 0;
+   margin: auto;
+   }
+.form {
+    position: relative;
+	background: rgba(5,35,175,0.4);
+	max-width: 360px;
+	margin: 0 auto 100px;
+	padding: 45px;
+	text-align: center;
+	}
+input {
+    font-family:"Roboto", sans-serif;
+	outline: 1;
+	background: #f2f2f2;
+	width: 100%;
+    margin:0 0 10px;
+	padding: 10px;
+	box-sizing: border-box;
+	font-size: 14px;
+	}
+.button {
+    background-color:#c7ba84;
+    border: white;
+    color: black;
+    padding: 8px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;    
+    border-radius: 50px;
+	margin-left:0px;
+	width:100px
+}
+.button:hover {background:#c19a6b;}
